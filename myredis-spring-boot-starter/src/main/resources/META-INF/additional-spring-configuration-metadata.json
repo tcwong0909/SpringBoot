@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "name": "myredis.url",
+      "type": "java.lang.String",
+      "defaultValue": "127.0.0.1",
+      "description": "连接地址."
+    },
+    {
+      "name": "myredis.port",
+      "type": "java.lang.String",
+      "defaultValue": "6379",
+      "description": "端口号."
+    },
+    {
+      "name": "myredis.password",
+      "type": "java.lang.String",
+      "defaultValue": "123456",
+      "description": "密码."
+    }
+  ]
+}
